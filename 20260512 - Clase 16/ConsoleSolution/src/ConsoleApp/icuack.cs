@@ -1,0 +1,4 @@
+interface ICuack
+{
+    void Cuack();
+}

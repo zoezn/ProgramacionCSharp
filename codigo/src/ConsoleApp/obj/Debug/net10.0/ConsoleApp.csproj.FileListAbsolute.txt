@@ -1,0 +1,15 @@
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.sourcelink.json
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\ZOECI\Desktop\ProgramacionCSharp\codigo\src\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll

@@ -1,0 +1,4 @@
+interface IVolador
+{
+    void Volar();
+}

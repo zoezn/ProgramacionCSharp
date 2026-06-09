@@ -1,0 +1,14 @@
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\src\git\github\achimuris\UTN\Prog II\Clases\20260512 - Clase 16\ConsoleSolution\src\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

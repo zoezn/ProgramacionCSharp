@@ -1,0 +1,4 @@
+interface INadador
+{
+    void Nadar();
+}
