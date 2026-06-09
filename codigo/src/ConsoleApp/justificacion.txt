@@ -1,0 +1,5 @@
+Para resolver el problema use el patron strategy, con esta solucion el cambio de estrategia de procesamiento es transparente para la clase document ya que al implementar la interfaz y no las estrategias concretas el objeto no debe cambiar al cambiar la estrategia.
+
+Patrón de Diseño: Strategy 
+DIP: la clase document depende de la interfaz de procesamiento, no de las clases concretas de las estrategias, asi se reduce el acoplamiento
+OCP: una nueva estrategia no requiere cambios en la clase document, no se modifica la clase pero se crea una nueva estrategia. No se toca codigo que funciona
